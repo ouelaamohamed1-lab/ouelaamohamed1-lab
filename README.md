@@ -35,7 +35,7 @@ Every project is an opportunity to improve my coding, problem-solving, and devel
 
 - Portfolio:https://ouelaamohamed1-lab.github.io/portfolio/
 
-- Email: ouelaamohamed@gmail.com
+- Email: ouelaamohamed1@gmail.com
 
 <!--
 **ouelaamohamed1-lab/ouelaamohamed1-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
