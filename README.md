@@ -33,9 +33,9 @@ Every project is an opportunity to improve my coding, problem-solving, and devel
 
 ## 📫 Connect with me
 
-- Portfolio: **Coming Soon**
-- LinkedIn: **Coming Soon**
-- Email: your-email@example.com
+- Portfolio:https://ouelaamohamed1-lab.github.io/portfolio/
+
+- Email: ouelaamohamed@gmail.com
 
 <!--
 **ouelaamohamed1-lab/ouelaamohamed1-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
