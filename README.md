@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Header Banner -->
-  <a href="https://github.com/[your-username]">
+  <a href="https://github.com/ouelaamohamed1-lab">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=%3C%2F%3E+Full-Stack+Web+Developer;Building+Modern+Web+Experiences;Exploring+Low-Level+Systems+in+C;" alt="Typing Banner" />
   </a>
 
@@ -14,16 +14,16 @@
 
   <!-- Interactive Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/[your-profile]" target="_blank">
+    <a href="https://linkedin.com/in/your-profile" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/[your-username]" target="_blank">
+    <a href="https://github.com/ouelaamohamed1-lab" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:ouelaamohamed1@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://ouelaamohamed1-lab.github.io/Mohamed-said--portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
     </a>
   </p>
@@ -46,7 +46,7 @@ typedef struct {
 
 int main() {
     Developer dev = {
-        .name = "Your Name",
+        .name = "Ouelaa Mohamed Said",
         .role = "Full-Stack Web Developer",
         .primary_languages = {"HTML5/CSS3", "JavaScript", "C"},
         .current_focus = "Deep-diving into C systems programming & high-performance web UI"
