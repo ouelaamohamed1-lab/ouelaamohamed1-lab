@@ -1,63 +1,58 @@
 <div align="center">
 
-  # ⚡ Hi there, I'm <span style="color: #00d2ff;"> Ouelaa mohamed said</span> ⚡
-  
-  ### 🚀 **Full-Stack Developer** & **Systems Engineering Enthusiast**
-  
-  <p align="center">
-    <i>Bridging pixel-perfect front-end interfaces with deep computer science fundamentals in <b>C</b>.</i>
-  </p>
+  <!-- Dynamic Typing Header Banner -->
+  <a href="https://github.com/[your-username]">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=%3C%2F%3E+Full-Stack+Web+Developer;Building+Modern+Web+Experiences;Exploring+Low-Level+Systems+in+C;" alt="Typing Banner" />
+  </a>
 
-  <!-- GitHub Badges -->
+  <br />
+
+  <!-- Animated Glowing Banner / Logo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,20,25,00f2fe,4facfe&height=180&section=header&text=WELCOME%20TO%20MY%20GITHUB&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
+
+  <br />
+
+  <!-- Interactive Social Badges -->
   <p align="center">
-    <a href="https://github.com/[your-username]">
-      <img src="https://img.shields.io/github/followers/[your-username]?label=Followers&style=for-the-badge&color=00d2ff&logo=github" alt="GitHub Followers">
+    <a href="https://linkedin.com/in/[your-profile]" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://linkedin.com/in/[your-profile]">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <a href="https://github.com/[your-username]" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://yourportfolio.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
     </a>
   </p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-92be-d72688651025.gif" width="100%" />
 
-### 🎨 **Tech Stack & Tooling**
-
-<div align="left">
-
-#### **Front-End Engineering**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-#### **Systems & Tooling**
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Language" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-</div>
-
----
-
-### 💡 **About Me & Current Focus**
+### 🚀 **About Me**
 
 ```c
 #include <stdio.h>
 
+typedef struct {
+    char* name;
+    char* role;
+    char* primary_languages[3];
+    char* current_focus;
+} Developer;
+
 int main() {
-    printf("Developer Status:\n");
-    printf("- Building modern, high-performance web interfaces.\n");
-    printf("- Mastering low-level memory allocation & pointer mechanics in C.\n");
-    printf("- Engineering scalable full-stack web solutions.\n");
+    Developer dev = {
+        .name = "Your Name",
+        .role = "Full-Stack Web Developer",
+        .primary_languages = {"HTML5/CSS3", "JavaScript", "C"},
+        .current_focus = "Deep-diving into C systems programming & high-performance web UI"
+    };
+
+    printf("👋 Hello World! I'm %s, a %s.\n", dev.name, dev.role);
+    printf("🎯 Current Focus: %s\n", dev.current_focus);
     return 0;
 }
